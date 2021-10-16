@@ -33,14 +33,17 @@ With this project, there were several key aspects which I had to consider before
 With this obstacle in mind, I figured that I had three main options for a solid support structure. My options were to use clips on either side, use a form of friction grip, or make use of the rubber stoppers. With careful consideration and testing, I found that the first option would be too intrusive and potentially damage my device and the second would require external resources that I did not have available at the time. With the third option, I developed a quick test model to see whether something was viable.
 
 ![image](https://user-images.githubusercontent.com/74937113/137569792-aa790fe2-a513-4554-9efa-99747582f47a.png)
+
 This little creation makes use of the edges of the stoppers. One thing that I was worried about was how thin the stoppers were, meaning slight movement in the Y axis would cause the support to lose its stability. Therefore, my goal was to focus as much force downwards as possible.
 
 
 ![image](https://user-images.githubusercontent.com/74937113/137570293-50b3cba6-fb84-45b6-98dc-a3f6432de7c3.png)
+
 Figure: Rubber stoppers on the bottom of device
 
 
 Later on, structures were added to the base to support a potential arm.
+
 ![image](https://user-images.githubusercontent.com/74937113/137569847-a16519b4-3727-487d-8962-fc9c2456c4a7.png)
 
 
@@ -62,10 +65,15 @@ Using Autodesk Inventor's assembly mode, I created the following setup:
 
 ATTACHED
 
-I've attached the .stl and inventor files for anyone that wants to print it. The filemaps are for one rest, so you'd have to print it twice. [laptopsupports.zip](https://github.com/leer78/Laptop-Supports/files/7356602/laptopsupports.zip)
+I've attached the .stl and inventor files for anyone that wants to print it. The filemaps are for one rest, so you'd have to print it twice.
+[laptopsupports.zip]
+
+(https://github.com/leer78/Laptop-Supports/files/7356602/laptopsupports.zip)
 
 ![image](https://user-images.githubusercontent.com/74937113/137570307-e492bfb8-5fe5-4ad4-a741-1c8188b8c8ee.png)
+
 Figure: left and right sides of the supports (one for each end of the rubber stopper)
 
 ![image](https://user-images.githubusercontent.com/74937113/137570317-861c6cf4-1ccd-4f90-8b25-ce16379fdbd3.png)
+
 Figure: left support in action
