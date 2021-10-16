@@ -1,6 +1,4 @@
 # Laptop-Supports
-temp description
-A simple 3D modelling project to improve productivity
 
 NAME Laptop Tablet Screen Supports
 
